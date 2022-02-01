@@ -15,6 +15,9 @@ a:hover {
     text-decoration: none;
     cursor: pointer;
 }
+a:focus{
+    border: 2px solid lightblue;
+}
 li {
     margin-bottom: 15px;
 }
