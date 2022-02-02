@@ -445,7 +445,7 @@ p {
     font-size: 38px;
 }
 p {
-    font-size: 14px;
+    font-size: 1.2em;
 }
 .tight-width-whitespace {
     max-width: 600px;
